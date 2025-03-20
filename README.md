@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://github.com/Aayush-1209.png" width="150" alt="Aayush Pandey">
+</p>
+
 <h1 align="center">Hi 👋, I'm Aayush Pandey</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aayush1209&label=Profile%20views&color=0e75b6&style=flat" alt="Aayush1209" />
-  <a href="https://github.com/Aayush1209?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aayush1209?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Aayush-1209&label=Profile%20views&color=0e75b6&style=flat" alt="Aayush-1209" />
+  <a href="https://github.com/Aayush-1209?tab=followers">
+    <img src="https://img.shields.io/github/followers/Aayush-1209?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -45,11 +49,11 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayush1209&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-1209&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush1209&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-1209&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush1209&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-1209&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -68,7 +72,7 @@
 
 ## 🎯 **Contact Me**
 📫 **Email:** paayush1209@gmail.com  
-<--🚀 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  --/>
+<--🚀 **Portfolio:** link  --/>
 
 ---
 
