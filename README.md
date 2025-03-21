@@ -41,8 +41,8 @@
 ### 🚀 Featured Work
 | 🔥 Project | 📝 Description | 🛠 Tech Stack | 🌍 Live Demo |
 |------------|--------------|--------------|--------------|
-| **MIT Marketplace** | A dynamic online marketplace for a variety of products | React, Tailwind, Firebase (Realtime DB & Auth) | [Live Demo](#) |
-| **Shop-Smart** | A feature-rich e-commerce platform with cart, wishlist, and admin management | React, Tailwind, Firebase (Realtime DB & Auth) | [Live Demo](#) |
+| **MIT Marketplace** | A dynamic online marketplace for a variety of products | React, Tailwind, Firebase (Realtime DB & Auth) | [Live Demo](https://flourishing-chimera-700106.netlify.app/) |
+| **Shop-Smart** | A feature-rich e-commerce platform with cart, wishlist, and admin management | React, Tailwind, Firebase (Realtime DB & Auth) | [Live Demo](https://shop-smart-blue.vercel.app/) |
 | **TripSage** | A smart travel planner with personalized recommendations, tracking & admin features | React, Node.js, Express, MongoDB, Tailwind | [Live Demo](#) |
 
 ---
