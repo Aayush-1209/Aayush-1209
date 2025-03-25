@@ -72,7 +72,7 @@
 
 ## 🎯 **Contact Me**
 📫 **Email:** paayush1209@gmail.com  
-<--🚀 [**Portfolio:** link ](https://adorable-babka-ab6d1e.netlify.app/) --/>
+🚀 [**Portfolio:** ](https://aayush-1209.github.io/) 
 
 ---
 
